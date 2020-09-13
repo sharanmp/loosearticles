@@ -6,7 +6,7 @@ alt: Kareri Trek
 createdAt: '2020-06-22T10:59:27.863Z'
 ---
 
-# Kareri Trek 
+# Kareri Trek (Not updated)
 
 - Snow boots / waterproof shoes
 - Waterbottle
