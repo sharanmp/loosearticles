@@ -1,5 +1,5 @@
 <template>
-  <img :src="imgSrc()" :alt="alt" />
+  <img :src="imgSrc()" :alt="alt" class="mx-auto" />
 </template>
 
 <script>

@@ -73,5 +73,12 @@ export default {
    ** Build configuration
    ** See https://nuxtjs.org/api/configuration-build/
    */
-  build: {},
+  build: {
+    extend(config) {
+      config.module.rules.push({
+        test: /\.md$/i,
+        loader: 'ignore-loader',
+      })
+    },
+  },
 }
