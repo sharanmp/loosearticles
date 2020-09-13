@@ -13,7 +13,11 @@ import Vue from 'vue'
 
 export default Vue.extend({
   async asyncData({ $content, params }) {
-    const article = await $content('articles', params.slug).fetch()
+    const blogPath = `/${params.slug}`
+    const [article] = await $content({ deep: true })
+      .where({ dir: blogPath })
+      .fetch()
+
     return { article }
   },
   methods: {

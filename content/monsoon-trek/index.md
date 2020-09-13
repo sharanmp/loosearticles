@@ -1,7 +1,7 @@
 ---
 title: Monsoon Trek to Visapur Fort
 description: A hooded raincoat is a must in monsoon (rained all day during our trip)
-img: ''
+img: '1.jpg'
 alt: Monsoon Trek to Visapur Fort
 createdAt: '2020-06-22T10:59:27.863Z'
 ---
@@ -21,11 +21,17 @@ It's hard to get seats online, so book tickets early or, book them offline to ge
 
 From Bhaje, you have to take the road uphill that leads to Lohagad Fort until you reach hotel Viraj.
 
+<v-img src="/monsoon-trek/images/1.jpg" alt="Software Engineer Job Offer"></v-img>
+
 Here, take left for Visapur Fort road. Take the help of people around there if you get confused. From here, the road is slightly muddy. Follow this path until you reach a small hut/stall. Eat and energize here if you want. Walk a few steps ahead to find a flag that says 'Visapur Fort' in Hindi.
 
 As you reach Visapur, it rains endlessly. Unless your backpack is completely waterproof, it is preferable to use that raincoats cover your backpacks too while wearing (even if you have a waterproof cover for your bag).
 
+<v-img src="/monsoon-trek/images/2.jpg" alt="Software Engineer Job Offer"></v-img>
+
 Here starts the trek. A trek up a beautiful waterfall. This must take 30 to 40 mins. Just be careful with all the slippery rocks. Hold rocks that are stable (which do not shake). Bend your body and climb up.
+
+<v-img src="/monsoon-trek/images/3.png" alt="Software Engineer Job Offer"></v-img>
 
 After reaching up, you will have a glimpse of how heaven might look. There is a plateau on top covered with clouds and visibility is around 100 meters only. There are many ponds on the top and small waterfalls where you can take a dip. Although, I suggest against entering into ponds for safety reasons.
 

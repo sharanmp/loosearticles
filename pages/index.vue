@@ -1,12 +1,7 @@
 <template>
   <div>
-    <div v-for="article of articles" :key="article.slug">
-      <BlogCard
-        :title="article.title"
-        :sub-title="article.description"
-        :img="article.img"
-        :to="{ name: 'blog-slug', params: { slug: article.slug } }"
-      />
+    <div v-for="article of articles" :key="article.dir">
+      <BlogCard :blog="article" />
     </div>
   </div>
 </template>
@@ -15,9 +10,9 @@
 import Vue from 'vue'
 
 export default Vue.extend({
-  async asyncData({ $content, params }) {
-    const articles = await $content('articles', params.slug)
-      .only(['title', 'description', 'img', 'slug', 'author'])
+  async asyncData({ $content }) {
+    const articles = await $content({ deep: true })
+      .only(['title', 'description', 'img', 'dir', 'slug'])
       .sortBy('createdAt', 'desc')
       .fetch()
 
