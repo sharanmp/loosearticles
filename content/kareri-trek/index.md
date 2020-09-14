@@ -1,12 +1,12 @@
 ---
 title: Kareri Trek
-description: 3 day trek from Ghera, in March'20
+description: 3 day trek from Barnet, Dharamshala, in March'20
 img: '1.jpg'
 alt: Kareri Trek
 createdAt: '2020-06-22T10:59:27.863Z'
 ---
 
-# Kareri Trek (Not updated)
+# Kareri Trek (Not updated yet)
 
 - Snow boots / waterproof shoes
 - Waterbottle
