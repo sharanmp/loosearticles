@@ -9,6 +9,9 @@ export default {
    ** See https://nuxtjs.org/api/configuration-target
    */
   target: 'static',
+  router:{
+    base: '/loosearticles.github.io/'
+  },
   /*
    ** Headers of the page
    ** See https://nuxtjs.org/api/configuration-head
