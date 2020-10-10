@@ -14,12 +14,13 @@ createdAt: '2020-06-22T10:59:27.863Z'
 # Trek deal
 
 We went for a 3-day trek deal. That included a 2-day food. Itinerary is as follows:
+
 -Day 1: Travel to Barnet from McLeodganj/Dharamshala
 -Day 1: Start the trek from Barnet to reach Kareri village by evening. Have dinner(provided) and have a good night's sleep
 -Day 2: Have breakfast (provided) and go the trekking point. Tents will be carried by your guides. (look in essentials)
 
 
-7 friends of mine and I stayed in McLeodganj that is a twin of Dharamshala. Our journey started with an SUV that dropped us at the starting point of the trek near Barnet. Mind you, this is a 3 day one, technically. There is an option for 2 day trek where you will probably be dropped off at Kareri village directly. We chose the 3 day one where we had to trek to the Kareri village. 
+7 friends of mine and I the night at dorm in McLeodganj (twin of Dharamshala). Our journey started with an SUV that dropped us at the starting point of the trek near Barnet. Mind you, this is a 3 day one, technically. There is an option for 2 day trek where you will probably be dropped off at Kareri village directly. We chose the 3 day one where we had to trek to the Kareri village. 
   
 <v-img src="/kareri-trek/images/start_trek.jpg" alt="start_trek"></v-img>
 
