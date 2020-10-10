@@ -5,12 +5,12 @@ img: 'valley.jpg'
 alt: Kareri Trek
 ---
 
-# Kareri Trek (Not updated yet)
+# Kareri Trek
 
 - Snow boots / waterproof shoes
 - Waterbottle
 
-# Trek deal
+## Trek deal
 
 We went for a 3-day trek deal. That included a 2-day food. Itinerary is as follows:
 
