@@ -3,7 +3,6 @@ title: Kareri Trek
 description: 3 day trek from Barnet, Dharamshala, in March'20
 img: 'valley.jpg'
 alt: Kareri Trek
-createdAt: '2020-06-22T10:59:27.863Z'
 ---
 
 # Kareri Trek (Not updated yet)
