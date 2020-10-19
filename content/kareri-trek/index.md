@@ -9,7 +9,7 @@ createdAt: '2020-06-22T10:59:27.863Z'
 # Kareri Trek (Not updated yet)
 
 - Snow boots / waterproof shoes
-- Waterbottle
+- Water bottle
 
 # Trek deal
 We went for a 3-day trek deal. That included a 2-day food. Itinerary is as follows:
