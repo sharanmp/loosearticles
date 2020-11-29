@@ -1,7 +1,7 @@
 <template>
   <div class="pb-10">
     <div class="max-w-xl mx-auto">
-      <hr class="border-2 border-black" />
+      <hr class="border-2 dark:border-gray-500" />
       <NuxtLink :to="blog.dir">
         <div class="font-bold text-2xl mb-2 mt-4 text-center title">
           {{ blog.title }}
@@ -14,13 +14,11 @@
         />
       </NuxtLink>
       <div class="py-4">
-        <p class="text-gray-700 text-base">
+        <p class="dark:text-gray-300 text-base">
           {{ blog.description }}
         </p>
       </div>
-      <NuxtLink :to="blog.dir">
-        <button class="btn btn-black">READ MORE ></button>
-      </NuxtLink>
+      
     </div>
   </div>
 </template>

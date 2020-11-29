@@ -1,7 +1,7 @@
 ---
 title: Does RAM size matter?
 description: Does the size of a computer memory adds to performance?
-img: 'video_converter.jpg'
+#img: 'video_converter.jpg'
 alt: Best Video Converter
 ---
 

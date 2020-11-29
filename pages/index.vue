@@ -1,6 +1,6 @@
 <template>
   <div>
-    <div v-for="article of articles" :key="article.dir">
+    <div v-for="article of articles" :key="article.dir" >
       <BlogCard :blog="article" />
     </div>
   </div>
@@ -8,6 +8,7 @@
 
 <script lang="ts">
 import Vue from 'vue'
+import TButton from "~/components/TButton.vue";
 
 export default Vue.extend({
   async asyncData({ $content }) {
@@ -20,5 +21,8 @@ export default Vue.extend({
       articles,
     }
   },
+  components: {
+    TButton
+  }
 })
 </script>

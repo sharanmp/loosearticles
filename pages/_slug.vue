@@ -1,7 +1,7 @@
-<template>
+<template >
   <div>
-    <article class="prose prose-sm sm:prose mx-auto">
-      <hr class="border-2" style="border-color: black" />
+    <article class="prose prose-sm sm:prose dark:prose-dark mx-auto">
+      <hr class="border-2 dark-mode:border-white rounded-lg"  />
       <nuxt-content :document="article" />
       <p>Date: {{ formatDate(article.createdAt) }}</p>
     </article>
@@ -28,3 +28,4 @@ export default Vue.extend({
   },
 })
 </script>
+

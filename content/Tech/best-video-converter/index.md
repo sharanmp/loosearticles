@@ -1,7 +1,7 @@
 ---
 title: Best video converter
 description: 
-img: 'video_converter.jpg'
+#img: 'video_converter.jpg'
 alt: Best Video Converter
 ---
 
