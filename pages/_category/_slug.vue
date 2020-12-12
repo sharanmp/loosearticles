@@ -1,6 +1,6 @@
 <template >
   <div>
-    <article class="prose prose-sm sm:prose dark:prose-dark mx-auto">
+    <article v-if="article" class="prose prose-sm sm:prose dark:prose-dark mx-auto">
       <hr class="border-2 dark-mode:border-white rounded-lg"  />
       <nuxt-content :document="article" />
       <p>Date: {{ formatDate(article.createdAt) }}</p>
@@ -13,7 +13,10 @@ import Vue from 'vue'
 
 export default Vue.extend({
   async asyncData({ $content, params }) {
-    const blogPath = `/${params.slug}`
+    const blogPath = `/${params.category}/${params.slug}`
+    
+    console.log(await $content({deep:true}).where({ dir: blogPath }).fetch());
+    
     const [article] = await $content({ deep: true })
       .where({ dir: blogPath })
       .fetch()
