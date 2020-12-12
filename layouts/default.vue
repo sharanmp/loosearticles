@@ -25,13 +25,6 @@
               Travel Bloticles
             </h3>
           </nuxt-link>
-          <nuxt-link to="/">
-            <p
-              class="mt-2 text-center leading-6 font-semibold tracking-tight"
-            >
-              Goto Tech Bloticles
-            </p>
-          </nuxt-link>
         </div>
         <Nuxt />
       </div>

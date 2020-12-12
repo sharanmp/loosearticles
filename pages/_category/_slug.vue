@@ -14,9 +14,7 @@ import Vue from 'vue'
 export default Vue.extend({
   async asyncData({ $content, params }) {
     const blogPath = `/${params.category}/${params.slug}`
-    
-    console.log(await $content({deep:true}).where({ dir: blogPath }).fetch());
-    
+        
     const [article] = await $content({ deep: true })
       .where({ dir: blogPath })
       .fetch()

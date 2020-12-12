@@ -7,7 +7,7 @@
           {{ blog.title }}
         </div>
         <v-img
-          v-if="blog.img !== ''"
+          v-if="blog.img && blog.img !== ''"
           class="w-full"
           :alt="blog.title"
           :src="blog.dir + '/images/' + blog.img"
@@ -18,7 +18,6 @@
           {{ blog.description }}
         </p>
       </div>
-      
     </div>
   </div>
 </template>

@@ -4,6 +4,7 @@ description: A day trek to Visapur fort, in Monsoon obviously :P
 img: '3.png'
 alt: Monsoon Trek to Visapur Fort
 createdAt: '2020-06-22T10:59:27.863Z'
+category: travel
 ---
 
 # Monsoon Trek to Visapur Fort
